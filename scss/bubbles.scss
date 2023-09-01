@@ -1,0 +1,35 @@
+//bubles
+
+h1 {
+    text-align: center;
+    font-size: 1.2em;
+    padding-bottom: 50px;
+  }
+  
+  
+  .container {
+    display: flex;
+     align-items: center;
+     justify-content: space-around;
+     text-align: center;
+     }
+  
+  .container h2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 1.2em;
+    color: black;
+    padding-bottom: 5px;
+  }
+  
+  .container > div {
+    color: grey;
+    width: 300px;
+  }
+  .container img {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+  }

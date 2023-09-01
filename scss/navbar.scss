@@ -1,0 +1,26 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-around;
+    text-align: center;
+    width: 100%;
+    line-height: 40px;
+    top: 0;
+    position: fixed;
+    z-index: 1;
+    background: whitesmoke;
+  }
+  .navbar a {
+    text-decoration: none;
+    color: black;
+  }
+  nav .signup {
+    width: 80px;
+    height: 30px;
+    border-radius: 6px;
+    color: white;
+    // text-align: center;
+    background: #1da1f2;
+    border: none;
+  }

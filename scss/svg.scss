@@ -1,0 +1,27 @@
+//SVG
+
+.svg {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 80px;
+    text-align: center;
+  }
+  .svg img {
+    width: 40px;
+    height: 40px;
+  }
+  .svg h1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 1.2em;
+    color: black;
+    padding-bottom: 5px;
+  }
+  
+  .svg > div {
+    color: grey;
+    width: 250px;
+  }
